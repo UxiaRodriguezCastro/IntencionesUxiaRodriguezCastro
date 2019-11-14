@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">IntencionesUxiaRodriguezCastro</string>
+    <string name="AbrirWB">Open Website</string>
+    <string name="llamada">Call</string>
+    <string name="tomar">Take Photo</string>
+    <string name="maps">Google Maps</string>
+    <string name="correo">Send Mail</string>
+</resources>
